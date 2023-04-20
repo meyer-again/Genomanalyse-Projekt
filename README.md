@@ -1,1 +1,2 @@
 # Genomanalyse-Projekt
+Der Code kann ohne weitere Schritte als Notebook ausgeführt werden. Im Ordner des Notebooks die Datei Azolla_filiculoides.genome_v1.2_rRNA.fa einfügen, es wird die neue Datei Azolla_sortiert.fa erstellt. Anzahl der Sequenzen vor und nach dem Sortieren werden im Notebook ausgedruckt. Die Anzahl der mehrfach vorkommenden Sequenzen wird nach dem Namen des ersten Gens eingefügt.
